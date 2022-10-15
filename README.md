@@ -4,14 +4,17 @@
 
 🔭 As an avid learner, I have deep interest in all things regarding Science & Tech. I've been enrolled in a Physics undergrad school for 5 years, not having completed my Bachelor's degree to pursue a carreer in programming but having achieved some scholar acomplishments, such as two published articles in Nuclear Physics and Engineering and an Apprentice Researcher Scholarship in VUKT-Brno in the Czech Republic. My interest in computer science, open source and fast inovation, however, led me to a change for a carrer as a WebDev.
 
-💬 If you'd like to contact me, don't be shy! Reach me at:
+💬 If you'd like to contact me, don't be shy! Reach me at:  
   <code>
     <a href="mailto:mtvargas42@gmail.com?subject=[GitHub]%20Hello%20Matheus%20Liberato">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
     </a>
-  </code>
-  [Matheus Gmail](mailto:mtvargas42@gmail.com?subject=[GitHub]%20Hello%20Matheus%20Liberato)
-
+  </code>  
+  <code>
+    <a href="https://www.linkedin.com/in/matheus-liberato-vargas-a3b11a1a2/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </code> 
 ----
 
 ## 🚀 Minhas Skills
