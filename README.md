@@ -1,6 +1,6 @@
 ## 💜 Hello world! My name is <strong>Matheus Liberato!</strong>
 
-> I am a software development student from Brazil, currently enrolled at <code><a href="https://www.betrybe.com/">Trybe</a><code> WebDev course
+> I am a software development student from Brazil, currently enrolled at a WebDev course at <code><a href="https://www.betrybe.com/">Trybe</a></code>
 
 🔭 As an avid learner, I have deep interest in all things regarding Science & Tech. I've been enrolled in a Physics undergrad school for 5 years, not having completed my Bachelor's degree to pursue a carreer in programming but having achieved some scholar acomplishments, such as two published articles in Nuclear Physics and Engineering and an Apprentice Researcher Scholarship in VUKT-Brno in the Czech Republic. My interest in computer science, open source and fast inovation, however, led me to a change for a carrer as a WebDev.
 
