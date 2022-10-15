@@ -1,4 +1,4 @@
-## 💜 Hello world! My name is <strong>Matheus Liberato!</strong>
+## 🤖 Hello world! My name is <strong>Matheus Liberato!</strong>
 
 > I am a software development student from Brazil, currently enrolled at a WebDev course at <code><a href="https://www.betrybe.com/">Trybe</a></code>
 
